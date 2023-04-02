@@ -1,9 +1,12 @@
 public class G02 {
+    public static void main(String[] args) {
+
+
 
     /*
     Git githubda projelerimizin üstünde çalışırke 3 adımda işlem yapıyoruz
 
-    1-Projelerimizi veya dosyalarımızı git işe ilişkilendiriyoruz -git init-
+    1-Projelerimizi veya dosyalarımızı git ile ilişkilendiriyoruz -git init-
     2-Projemizde veya dosyamızda bulunanları version oluşturuyoruz.
          git add.
          git commit -m"versiyonadı";
@@ -16,4 +19,7 @@ public class G02 {
         git push
 
      */
+        System.out.println("İşlem ekleyelim");
+
+    }
 }
